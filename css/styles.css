@@ -10224,3 +10224,20 @@ form .row:first-child .floating-label-form-group {
 .desno {
   margin-right: 5px;
 }
+
+.container a.naziv{
+  color: white;
+}
+
+.container a.naziv:hover{
+  color: aqua;
+  text-decoration: none;
+}
+
+.container .row .col-lg-4.ml-auto h2.drugiizbor{
+  color: #2c3e50;
+}
+
+.container .row .col-lg-4.mr-auto h2.drugiizbor{
+  color: #2c3e50;
+}
